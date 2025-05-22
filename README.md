@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://christianmurillo10.github.io/portfolio)
 
-- 📫 How to reach me **christianmurillo.business@gmail.com**
-
 - 📄 Know about my experiences [here](https://christianmurillo10.github.io/about)
+
+- 📫 How to reach me **christianmurillo.business@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

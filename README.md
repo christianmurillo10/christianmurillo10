@@ -7,11 +7,7 @@
 
 - 🔭 I’m currently working on **Microservices Application**
 
-- 🌱 I’m currently learning **Microservice Infrastructure**
-
 - 👨‍💻 All of my projects are available at [Portfolio](https://christianmurillo10.github.io/portfolio)
-
-- 💬 Ask me about **aws, serverless, nodejs, react and typescript**
 
 - 📫 How to reach me **christianmurillo.business@gmail.com**
 

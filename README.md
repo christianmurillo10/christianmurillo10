@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [here](https://christianmurillo10.github.io/about)
 
-- 📫 How to reach me **christianmurillo.business@gmail.com**
+- 📫 How to reach me **christianmurillo.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

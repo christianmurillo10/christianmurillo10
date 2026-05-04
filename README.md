@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christianmurillo10&label=Profile%20views&color=0e75b6&style=flat" alt="christianmurillo10" /> </p>
 
-- 🤝 I’m currently working at [Bevz](https://www.bevz.com/)
+- 🤝 I’m currently working as a Freelancer
 
-- 🔭 I’m currently working on **Microservices Application**
+- 🔭 I’m currently working on **Microservices Application** and **Clean Architecture**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://christianmurillo10.github.io/portfolio)
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/christianoroceomurillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christianoroceomurillo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/christianoroceomurillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christianoroceomurillo" height="30" width="40" /></a> &nbsp;
 <a href="https://fb.com/christianoroceomurillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="christianoroceomurillo" height="30" width="40" /></a>
 </p>
 
